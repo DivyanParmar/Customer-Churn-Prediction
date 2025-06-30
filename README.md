@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction
 
-[GitHub Link](#) <!-- Replace with actual GitHub URL -->
+[GitHub Link](https://github.com/DivyanParmar/Customer-Churn-Prediction) <!-- Replace with actual GitHub URL -->
 
 A machine learning project aimed at predicting telecom customer churn using supervised learning techniques.
 
